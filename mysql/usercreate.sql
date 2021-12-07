@@ -1,0 +1,1 @@
+CREATE USER IF NOT EXISTS 'azure'@'%' IDENTIFIED BY 'azure';
